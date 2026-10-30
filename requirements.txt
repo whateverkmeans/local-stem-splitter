@@ -1,0 +1,4 @@
+# Core dependencies for AI Audio Stem Splitter
+demucs>=4.0.0
+torch>=2.0.0
+
